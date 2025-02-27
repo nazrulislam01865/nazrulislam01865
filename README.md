@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nazrulislam01865
 - 👀 I’m interested in Web Design and Development  
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m passionate about backend of software engineering and also a quick learner
 - 💞️ I’m looking to collaborate on Software 
 - 📫 Contact:nazrul01865@gmail.com 
 
