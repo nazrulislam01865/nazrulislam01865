@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Nazrul Islam </h1>
 <h3 align="center">A Backend Developer skilled in Java, Spring Boot, Express.js, and C#</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
@@ -31,19 +31,19 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazrulislam01865&show_icons=true&theme=radical" alt="nazrulislam01865" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="yourusername" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazrulislam01865&theme=dark" alt="nazrulislam01865" />
 </p>
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
+  <a href="www.linkedin.com/in/nazrulislam17" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:nazrul01865@gmail.com">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="40"/>
   </a>
 </p>
