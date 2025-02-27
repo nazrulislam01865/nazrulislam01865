@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazrul Islam </h1>
 <h3 align="center">A Backend Developer skilled in Java, Spring Boot, Express.js, and C#</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrulislam01865&label=Profile%20views&color=0e75b6&style=flat" alt="nazrulislam01865" /> </p>
 
 - 🔭 I’m currently working on java spring boot
 - 🌱 I’m currently learning java spring boot
@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazrulislam01865&show_icons=true&theme=radical" alt="nazrulislam01865" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazrulislam01865&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&token=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" alt="nazrulislam01865" />
 </p>
 
 <p align="center">
