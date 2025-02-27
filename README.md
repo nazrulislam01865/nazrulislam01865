@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazrulislam01865&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&token=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" alt="nazrulislam01865" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&token=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" alt="nazrulislam01865" />
 </p>
 
 <p align="center">
