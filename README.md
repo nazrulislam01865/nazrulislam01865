@@ -15,9 +15,9 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
+ <!-- <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
