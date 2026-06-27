@@ -17,7 +17,7 @@ I'm **Nazrul Islam**, a full-stack developer building scalable, user-friendly we
 
 I enjoy turning complex workflows into clean, efficient solutions with strong backend architecture, responsive interfaces and performance-focused development.
 
-- 🔭 Currently working on **Laravel, Next.js, and NestJS projects**
+- 🔭 Currently working on **Laravel, Next.js and NestJS projects**
 - 🌱 Improving my skills in **clean architecture, API design, and scalable systems**
 - 👯 Looking to collaborate on **full-stack and backend-focused projects**
 - 💬 Ask me about **Laravel, PHP, JavaScript, Next.js, NestJS, MySQL and REST APIs**
@@ -106,4 +106,4 @@ I enjoy turning complex workflows into clean, efficient solutions with strong ba
 ### 🚀 Clean Code. Scalable Systems. Better User Experience.
 
 </div>
-```
+
