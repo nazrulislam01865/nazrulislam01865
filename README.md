@@ -13,14 +13,14 @@
 
 ## 👨‍💻 About Me
 
-I'm **Nazrul Islam**, a full-stack developer building scalable, user-friendly web applications with **Laravel, Next.js, and NestJS**.
+I'm **Nazrul Islam**, a full-stack developer building scalable, user-friendly web applications with **Laravel, Next.js and NestJS**.
 
-I enjoy turning complex workflows into clean, efficient solutions with strong backend architecture, responsive interfaces, and performance-focused development.
+I enjoy turning complex workflows into clean, efficient solutions with strong backend architecture, responsive interfaces and performance-focused development.
 
 - 🔭 Currently working on **Laravel, Next.js, and NestJS projects**
 - 🌱 Improving my skills in **clean architecture, API design, and scalable systems**
 - 👯 Looking to collaborate on **full-stack and backend-focused projects**
-- 💬 Ask me about **Laravel, PHP, JavaScript, Next.js, NestJS, MySQL, and REST APIs**
+- 💬 Ask me about **Laravel, PHP, JavaScript, Next.js, NestJS, MySQL and REST APIs**
 - 📫 Reach me at **nazrul01865@gmail.com**
 - ⚡ Fun fact: **I’m quiet in outside environments, but I’m a quick learner and love solving complex problems.**
 
@@ -89,9 +89,7 @@ I enjoy turning complex workflows into clean, efficient solutions with strong ba
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nazrulislam01865&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=nazrulislam01865&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" /> </a> </p>
 
 ---
 
